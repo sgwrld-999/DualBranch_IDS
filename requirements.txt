@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+torch
+torchvision
+torchaudio
+optuna
+matplotlib
+seaborn
+tensorboard
+onnx
+onnxruntime
+umap-learn
+scipy
+pytest
+tensorflow
+onnx-tf
