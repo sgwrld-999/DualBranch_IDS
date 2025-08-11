@@ -1,0 +1,30 @@
+{
+  "total_samples": 476144,
+  "features": 52,
+  "train_samples": 380915,
+  "test_samples": 71421,
+  "val_samples": 23808,
+  "class_distribution": {
+    "total": {
+      "normal": 447064,
+      "attack": 29080
+    },
+    "train": {
+      "normal": 357651,
+      "attack": 23264
+    },
+    "test": {
+      "normal": 67086,
+      "attack": 4335
+    },
+    "val": {
+      "normal": 22327,
+      "attack": 1481
+    }
+  },
+  "data_split_percentages": {
+    "train": 80.0,
+    "test": 15.0,
+    "validation": 5.0
+  }
+}

@@ -32,7 +32,6 @@ coverage.xml
 logs/
 runs/
 outputs/
-training_results/
 models_keras/
 
 # Large model/export files
